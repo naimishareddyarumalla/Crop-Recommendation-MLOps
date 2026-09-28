@@ -1,0 +1,16 @@
+{
+    "features": [
+        "N",
+        "P",
+        "K",
+        "temperature",
+        "humidity",
+        "ph",
+        "rainfall"
+    ],
+    "target": "label",
+    "train_size": 1760,
+    "test_size": 440,
+    "test_ratio": 0.2,
+    "random_state": 42
+}
